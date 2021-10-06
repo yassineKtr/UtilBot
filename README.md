@@ -1,1 +1,1 @@
-add your discord bot token to a python file named token.py
+discord bot token is stored in a .env file as {TOKEN=YOUR_TOKEN}
